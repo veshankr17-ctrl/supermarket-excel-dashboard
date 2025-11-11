@@ -1,2 +1,5 @@
 # supermarket-excel-dashboard
-Retail Sales Performance Dashboard — Excel
+### Project Progress
+- ✅ Part 1: Data Cleaning completed
+- ✅ Part 2: Metrics & Formatting completed
+  
