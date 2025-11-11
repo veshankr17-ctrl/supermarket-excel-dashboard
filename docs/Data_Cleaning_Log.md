@@ -12,5 +12,5 @@
 - Checked and handled outliers in Total, Quantity, and Unit Price
 - Sorted data by Date for easier trend analysis
 
-**Output File:** `SuperMarket_Analysis_Cleaned.xlsx` (stored in `/data/` folder)
+**Output File:** `SuperMarket Analysis CLEANED.xlsx` (stored in `/data/` folder)
 
