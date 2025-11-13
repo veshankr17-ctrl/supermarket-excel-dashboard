@@ -1,0 +1,5 @@
+- Removed empty rows
+- Fixed date column alignment
+- Added Total column (Unit Price * Quantity * Tax)
+- Formatted numbers
+- Checked for missing values (none found)
